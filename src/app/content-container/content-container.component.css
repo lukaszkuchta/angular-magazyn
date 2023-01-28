@@ -1,0 +1,6 @@
+.content-container {
+  border: 1px solid black;
+  background-color: #becfd9;
+  padding: 4px 8px;
+  min-height: 320px;
+}

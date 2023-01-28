@@ -1,0 +1,15 @@
+.navigator {
+  border: 1px solid black;
+  background-color: #8da9c4;
+  padding: 4px 8px;
+}
+
+.button-panel {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.button-panel button {
+  border-radius: 0;
+  margin-right: 4px;
+}
